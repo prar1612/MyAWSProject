@@ -17,6 +17,8 @@ This sample includes:
   Gateway.
 * tests/ - this directory contains unit tests for your application
 * template-configuration.json - this file contains the project ARN with placeholders used for tagging resources with the project ID
+*frontend.html - this contains the front end UI for the application
+*app.ja - this contains the nodeJS code invoked by the frontnd.html
 
 What Do I Do Next?
 ------------------
