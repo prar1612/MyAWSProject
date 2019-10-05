@@ -1,7 +1,7 @@
 var albumBucketName = 'photos1612';
 var bucketRegion = 'US-EAST-1';
 var IdentityPoolId = 'us-east-1:100dd32c-a6df-4f10-b90c-138c108feb57';
-
+//file demo
 AWS.config.update({
   region: bucketRegion,
   credentials: new AWS.CognitoIdentityCredentials({
